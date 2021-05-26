@@ -1,5 +1,5 @@
 # OBI-Python
-Resolução das atividades da Olimpíada Brasileira de Informática, na liguagem Python.
+Resolução das atividades da Olimpíada Brasileira de Informática, na modalidade programação, em liguagem Python.
 
 
 Colaboradores: <br>
