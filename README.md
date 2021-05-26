@@ -2,6 +2,6 @@
 Resolução das atividades da Olimpíada Brasileira de Informática, na liguagem Python.
 
 
-Colaboradores:
-@JuanMenezes
-@mozartnp
+Colaboradores: <br>
+[Juan](https://github.com/JuanMenezes) <br>
+[Mozart Pinho](https://github.com/mozartnp) <br>
